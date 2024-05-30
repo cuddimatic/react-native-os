@@ -46,3 +46,4 @@ _only if you want to write require('os') in your javascript_
 [Andy Prock](https://github.com/aprock)  
 
 PR's welcome!
+# react-native-os
